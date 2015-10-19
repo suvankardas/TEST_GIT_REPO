@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_nsName">CacheUtility.services</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared"></value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.softwareag.util.IDataMap</value>
+    <value>com.lxk.ehcache.utility.CacheEntryFactoryImpl</value>
+    <value>java.util.ArrayList</value>
+    <value>java.util.HashMap</value>
+    <value>java.util.HashSet</value>
+    <value>java.util.Hashtable</value>
+    <value>java.util.Iterator</value>
+    <value>java.util.List</value>
+    <value>java.util.Set</value>
+    <value>net.sf.ehcache.Cache</value>
+    <value>net.sf.ehcache.CacheManager</value>
+    <value>net.sf.ehcache.Ehcache</value>
+    <value>net.sf.ehcache.Element</value>
+    <value>net.sf.ehcache.config.CacheConfiguration</value>
+    <value>net.sf.ehcache.config.Configuration</value>
+    <value>net.sf.ehcache.config.MemoryUnit</value>
+    <value>net.sf.ehcache.config.SearchAttribute</value>
+    <value>net.sf.ehcache.config.Searchable</value>
+    <value>net.sf.ehcache.config.TerracottaClientConfiguration</value>
+    <value>net.sf.ehcache.config.TerracottaConfiguration</value>
+    <value>net.sf.ehcache.constructs.blocking.CacheEntryFactory</value>
+    <value>net.sf.ehcache.constructs.blocking.SelfPopulatingCache</value>
+    <value>net.sf.ehcache.search.Attribute</value>
+    <value>net.sf.ehcache.search.Query</value>
+    <value>net.sf.ehcache.search.Result</value>
+    <value>net.sf.ehcache.search.Results</value>
+    <value>net.sf.ehcache.search.query.QueryManager</value>
+    <value>net.sf.ehcache.search.query.QueryManagerBuilder</value>
+    <value>net.sf.ehcache.store.MemoryStoreEvictionPolicy</value>
+  </array>
+</Values>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">getSelfPopulatingCache</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgaWRjID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpTdHJpbmcgY2FjaGVNYW5h
+Z2VyTmFtZSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoaWRjLCJjYWNoZU1hbmFnZXJOYW1lIik7DQpT
+dHJpbmcgY2FjaGVOYW1lID0gSURhdGFVdGlsLmdldFN0cmluZyhpZGMsImNhY2hlTmFtZSIpOw0K
+aWRjLmRlc3Ryb3koKTsgDQoNCkNhY2hlTWFuYWdlciBjbSA9IENhY2hlTWFuYWdlci5nZXRDYWNo
+ZU1hbmFnZXIoY2FjaGVNYW5hZ2VyTmFtZSk7DQpFaGNhY2hlIGNhY2hlID0gY20uZ2V0RWhjYWNo
+ZShjYWNoZU5hbWUpOw0KIA0KQ2FjaGVFbnRyeUZhY3RvcnkgY2VmID0gbmV3IENhY2hlRW50cnlG
+YWN0b3J5SW1wbCgpOwkNClNlbGZQb3B1bGF0aW5nQ2FjaGUgc3BjID0gbmV3IFNlbGZQb3B1bGF0
+aW5nQ2FjaGUoY2FjaGUsIGNlZik7DQoNCklEYXRhQ3Vyc29yIGlkYzEgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNCklEYXRhVXRpbC5wdXQoaWRjLCAic2VsZlBvcHVsYXRpbmdDYWNoZSIsIHNwYyk7
+DQpJRGF0YVV0aWwucHV0KGlkYywgImNhY2hlTWFuYWdlciIsIGNtKTsNCmlkYzEuZGVzdHJveSgp
+Ow==</value>
+</Values>
